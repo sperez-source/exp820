@@ -1,0 +1,2 @@
+This is a small placeholder note used only for GitHub tool isolation tests.
+Safe to delete with the associated draft PR.
